@@ -39,7 +39,9 @@ After the user chose a product, he can place the order of that product.
 
 ### Swagger Documentation of Online Tshirt Store API
 
-https://onlinetshirtstore11.herokuapp.com/api-docs/
+https://onlinetshirtapi.herokuapp.com/api-docs/
+
+Note :- It is recommended to use select the 'protocol' as 'https'
 
 
 
