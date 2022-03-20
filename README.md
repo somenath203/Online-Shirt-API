@@ -41,7 +41,7 @@ After the user chose a product, he can place the order of that product.
 
 https://onlinetshirtapi.herokuapp.com/api-docs/
 
-Note :- It is recommended to use select the 'protocol' as 'https'
+Note :- It is recommended to select the 'protocol' as 'https'
 
 
 
